@@ -1,6 +1,8 @@
 package homeWork.LR1;
 
+import java.util.LinkedHashMap;
 import java.util.List;
+import java.util.Map;
 
 public class NumberIdentifier {
 
@@ -10,7 +12,8 @@ public class NumberIdentifier {
     }
 
     public static boolean isRomanNumber(String number) {
-        List<String> romas = List.of("X", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX");
-        return romas.contains(number);
+        List<String> roman = List.of("X", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX");
+        return roman.contains(number);
     }
+
 }
