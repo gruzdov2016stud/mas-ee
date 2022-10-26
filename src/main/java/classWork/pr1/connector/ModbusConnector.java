@@ -1,6 +1,6 @@
 package classWork.pr1.connector;
 
-import classWork.pr1.model.DataClass;
+import pr1.model.DataClass;
 
 public class ModbusConnector extends Connector{
     @Override

@@ -98,7 +98,8 @@ public class MyPlainArrList<E> implements List<E> {
 
     @Override
     public Iterator<E> iterator() {
-        return null;
+
+        throw new RuntimeException("not implmented");
     }
 
     @Override
@@ -136,7 +137,7 @@ public class MyPlainArrList<E> implements List<E> {
 
     @Override
     public E set(int index, E element) {
-        return null;
+        throw new RuntimeException("Not implemented");
     }
 
     @Override

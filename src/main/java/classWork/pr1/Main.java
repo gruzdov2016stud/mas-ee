@@ -1,7 +1,7 @@
 package classWork.pr1;
 
 import java.io.FileNotFoundException;
-import java.util.*;
+import java.util.List;
 
 public class Main {
 

@@ -1,7 +1,7 @@
 package classWork.pr1.writer;
 
-import classWork.pr1.model.ConnectorType;
-import classWork.pr1.model.Mode;
+import pr1.model.ConnectorType;
+import pr1.model.Mode;
 
 import java.util.List;
 

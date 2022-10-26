@@ -7,6 +7,15 @@ public class Main {
         while (true) {
             Calculations arabicCalcs = new ArabicCalcs();
             Calculations romanCalcs = new RomanCalcs();
+            List<Calculations> list = new ArrayList<>();
+
+            list.add(arabicCalcs);
+            list.add(romanCalcs);
+
+            for (Calculations calculations : list) {
+                calculations.addition("2","2");
+            }
+
 
             String result = null;
 

@@ -1,6 +1,6 @@
 package classWork.pr1.writer;
 
-import classWork.pr1.model.ConnectorType;
+import pr1.model.ConnectorType;
 
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;

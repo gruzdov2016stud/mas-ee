@@ -2,7 +2,7 @@ package classWork.pr2;
 
 import java.util.Arrays;
 
-public class Iec104LibDataParsingException extends Iec104LibException{
+public class Iec104LibDataParsingException extends Iec104LibException {
     public Iec104LibDataParsingException() {
     }
 

@@ -10,5 +10,8 @@
         <module name="e13m21" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jade" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

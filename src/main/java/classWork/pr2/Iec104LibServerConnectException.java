@@ -1,6 +1,6 @@
 package classWork.pr2;
 
-public class Iec104LibServerConnectException extends Iec104LibException{
+public class Iec104LibServerConnectException extends Iec104LibException {
     public Iec104LibServerConnectException() {
     }
 
