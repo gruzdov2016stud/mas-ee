@@ -1,7 +1,8 @@
 package classWork.lc7.train.impl;
 
-import lc7.train.MsgHandler;
-import lc7.train.MyHandler;
+
+import classWork.lc7.train.MsgHandler;
+import classWork.lc7.train.MyHandler;
 
 import java.io.File;
 

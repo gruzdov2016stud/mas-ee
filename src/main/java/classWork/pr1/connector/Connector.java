@@ -1,6 +1,6 @@
 package classWork.pr1.connector;
 
-import pr1.model.DataClass;
+import classWork.pr1.model.DataClass;
 
 public abstract class Connector {
     public String var ="dasd";
