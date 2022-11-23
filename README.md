@@ -11,3 +11,11 @@
       -agents
       Giper:homeWork.LR2.Agents;Quadratic:homeWork.LR2.Agents;Cos:homeWork.LR2.Agents;
    ```
+4. [ЛР3 - Поиск лучшего пути](src/main/java/homeWork/LR3)
+   1. Внимание к кодировке
+   2. Настроить application
+   ```text
+      -gui
+      -agents
+      
+   ```   
