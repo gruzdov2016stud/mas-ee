@@ -7,15 +7,15 @@
    1. Внимание к кодировке
    2. Настроить application
    ```text
-      -gui
-      -agents
-      Giper:homeWork.LR2.Agents;Quadratic:homeWork.LR2.Agents;Cos:homeWork.LR2.Agents;
+   -gui
+   -agents
+   Giper:homeWork.LR2.Agents;Quadratic:homeWork.LR2.Agents;Cos:homeWork.LR2.Agents;
    ```
 4. [ЛР3 - Поиск лучшего пути](src/main/java/homeWork/LR3)
    1. Внимание к кодировке
    2. Настроить application
    ```text
-      -gui
-      -agents
-      
+   -gui
+   -agents
+   Node1:homeWork.LR3.NodeAgent;Node2:homeWork.LR3.NodeAgent;Node3:homeWork.LR3.NodeAgent;Node4:homeWork.LR3.NodeAgent;Node5:homeWork.LR3.NodeAgent;Node6:homeWork.LR3.NodeAgent;Node7:homeWork.LR3.NodeAgent;Node8:homeWork.LR3.NodeAgent;Node9:homeWork.LR3.NodeAgent;Node10:homeWork.LR3.NodeAgent;Node11:homeWork.LR3.NodeAgent;Node12:homeWork.LR3.NodeAgent;
    ```   

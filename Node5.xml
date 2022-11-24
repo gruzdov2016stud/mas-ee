@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<nodeAgent>
+    <neighborsNodes>
+        <nodes name="Node1" lengthWay="16.0"/>
+        <nodes name="Node2" lengthWay="25.0"/>
+        <nodes name="Node3" lengthWay="2.0"/>
+        <nodes name="Node4" lengthWay="11.0"/>
+        <nodes name="Node6" lengthWay="23.0"/>
+        <nodes name="Node7" lengthWay="15.0"/>
+        <nodes name="Node8" lengthWay="6.0"/>
+    </neighborsNodes>
+    <start>false</start>
+    <end>false</end>
+</nodeAgent>
